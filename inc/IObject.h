@@ -10,7 +10,7 @@
  * on the table or on the Canvas like, directions coordinates
  * movements etc. The advantage of inheriting Canvas from IObjects
  * can be like to handle Commands that can operate on Canvas. Something
- * like to PLACE-MINEFIELD on canvas at location x,y. These commands 
+ * like to PLACE-LAND-MINE on canvas at location x,y. These commands 
  * then can be made part of the existing command setup and the input object
  * to execute these kind of commands then can be the instance of Canvas.
  * However, Canvas is not really an object, its more like a coordinate system
