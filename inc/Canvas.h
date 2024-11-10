@@ -15,7 +15,7 @@
  * Function in this class is the most important one to validate
  * whether the object or Robot can be moved to that position or not.
  * Moreover, the requirement may come like few cells on the canvas
- * are filled with minefields, just to make the game interesting.
+ * are filled with land mines, just to make the game interesting.
  * Such scenarios can be handled by keeping this class separated.
  */ 
 class Canvas
